@@ -1,0 +1,37 @@
+
+1x RGB
+1x Project Box
+40x Pin Header
+1x Timer 555
+2x Optocoupler 4N35
+2x Shift Resister 74HC595N
+1x H-Bridge L293D
+1x Accelerometer ADXL335
+1x Rotary Encoder
+5x Push-Button small
+8x Resistor 每 220 Ohm
+4x Resistor 每1k Ohm
+4x Resistor 每10k Ohm
+1x Resistor 每 1M Ohm
+1x Resistor 每 5.1M Ohm
+1x Switch
+1x Trim Pot 每 50k
+1x LCD Character Display 16x2
+1x Dot Matrix Display 8x8
+2x 7-Segment Character Display
+1x DC Motor
+16x LED red
+2x LED white
+2x LED green
+2x LED yellow
+2x Transistor NPN
+2x Transistor PNP
+4x Capacitor Ceramic 100nF
+4x Capacitor Ceramic 10nF
+4x Diode Rectifier
+1x Breadboard
+1x USB Cable
+65x Male to Male Jumper Wires
+20X Female to Male Dupont wires
+1x Piezo Buzzer
+1x fan
