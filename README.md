@@ -1,5 +1,5 @@
 # ArduinoFun
-Some resources and code changes from playing with my Arduino.
+Some resources and code modifications from the superkit code from playing with my Arduino.
 
 [Sunfounder Superkit from Amazon](http://www.amazon.com/gp/product/B00D9NQDAG/?tag=defaultrd-20)
 [From Sunfounder](http://www.sunfounder.com/index.php?c=show&id=4&model=Super%20Kit)
